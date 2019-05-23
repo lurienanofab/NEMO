@@ -1,6 +1,6 @@
 # Installation Notes #
 
-These are all the steps it took to get NEMO up and running on Ubuntu with PostgresSQL. Many thanks to @SolitonMan for all his help.
+These are all the steps it took to get NEMO up and running on Ubuntu with PostgresSQL. Many thanks to [@SolitonMan](https://github.com/SolitonMan/) for all his help.
 
 ---
 
